@@ -2,3 +2,6 @@
 /target/S&P500.csv
 /target/NIKKEI225.csv
 /target/LFTSE100.csv
+/target/S&P500.text
+/target/NIKKEI225.text
+/target/LFTSE100.text
