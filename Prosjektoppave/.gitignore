@@ -1,1 +1,4 @@
 /bin/
+/target/S&P500.csv
+/target/NIKKEI225.csv
+/target/LFTSE100.csv
