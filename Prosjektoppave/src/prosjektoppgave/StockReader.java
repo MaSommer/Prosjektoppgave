@@ -65,7 +65,6 @@ public class StockReader {
 				if (row != 0 && checkIfDateIsWithinInterval(lineCells[0])){
 					addAllColData(lineCells, row);
 				}
-//				System.out.println(nextLine+"");
 				row++;
 				
 				if (row%50 == 0){
